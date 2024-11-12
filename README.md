@@ -49,8 +49,8 @@ This repository is ideal for anyone who wants to strengthen their skills in C pr
 
 1. Clone this repository to your local machine:
    ```git clone https://github.com/KadirYazadzhi/C-Programming-Exercises.git```
-2. Navigate to the desired task folder to view the C# files.
-3. If you encounter any issues or have suggestions for improvement, please open an issue or reach out to me via email.
+2. Navigate to the appropriate folder to view the solutions.
+3. If you have suggestions or encounter any issues, feel free to open an issue or reach out to me.
 
 ## ✉️ Contact Information
 If you have any questions, suggestions, or concerns, you can reach me via email at kadiryazadzhi@gmail.com.
